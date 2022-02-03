@@ -1,4 +1,4 @@
-<h1 align = center> Hi, my name is **Valeriy**</h1>
+<h1 align = center> Hi, I am <b>Valeriy</b></h1>
 
 <!--
 **Grave18/Grave18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
